@@ -8,7 +8,7 @@ import org.springframework.web.bind.annotation.ResponseBody;
 public class FirstController {
 	
 	
-	@GetMapping("/info")
+	@GetMapping("/infourl")
 	//@ResponseBody
 	public String information()
 	{
